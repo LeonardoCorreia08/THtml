@@ -32,7 +32,7 @@ Uma página web moderna e responsiva desenvolvida para uma escola de música foc
 ## 📁 Estrutura de Arquivos Sugerida
 
 ```text
-toms-jazz-school/
+thtml/
 ├── img/
 │   ├── logo.svg
 │   ├── hero-img.svg
