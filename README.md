@@ -1,6 +1,6 @@
 # THtml
 
-# Projeto gratuito desenvolvido com apoio da One Bit Code.
+# desenvolvido com apoio da One Bit Code.
 
 # Tom's Jazz School
 
